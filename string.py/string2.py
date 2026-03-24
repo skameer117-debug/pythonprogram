@@ -1,0 +1,2 @@
+s="Ameer"
+print(s[:])
