@@ -1,0 +1,10 @@
+l=[5,8,12,3,9]
+l.insert(0,40)
+l.insert(6,45)
+l.insert(3,35)
+l.insert(20,55)
+print(l)
+print(l[8])
+l.insert(-10,34)
+print(l[0])
+print(l)
