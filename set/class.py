@@ -207,11 +207,7 @@ o/p:
 ('hi', 1, 5.3)
 
 
-def multiply(*args):
-    result = 1
-    for num in args:
-        result *= num
-    return result
+ result
 
 # Calling with a varying number of arguments
 print(multiply(2, 3))          # Output: 6
@@ -369,7 +365,7 @@ _________________________________________
 local  variable :
 A variable defined  inside function that is known as local variable .
 That is visible within that function.
-not access other function.
+not access other function
 
 def show():
 	a=10 #local variable
@@ -618,14 +614,14 @@ ___________________________________
 (1)import modulename
 (2)import modulename as dupname
 (3)from modulename import membername,...
-(4)from modulename import *;
-mymod.py
-__________________
-def show():
+(4)from modulename importdef show():
 	print("show function")
 def add(no1,no2):
 	return no1+no2
-x=20
+x=20 *;
+mymod.py
+__________________
+
 
 
 1.py
