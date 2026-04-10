@@ -649,10 +649,7 @@ print(x)
 
 4.py
 _________
-from mymod import *
-show()
-print(add(10,20))
-print(x)
+00
 
 
 

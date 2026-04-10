@@ -1,0 +1,8 @@
+f=open("Ameer.txt","r")
+print(f.tell())
+f.seek(4)
+print(f.read(6))
+print(f.tell())
+f.seek(5)
+print(f.read())
+f.close()

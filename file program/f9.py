@@ -1,0 +1,6 @@
+f=open("Ameer.txt","r")
+print(f.read())
+f.close()
+f=open("Ameer.txt","a")
+f.write("bye")
+f.close()
